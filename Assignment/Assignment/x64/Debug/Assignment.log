@@ -1,0 +1,64 @@
+﻿  Camera.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“Camera.cpp”)
+  
+  Constvalues.cpp
+D:\programming\Assignment\constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“Constvalues.cpp”)
+  
+  NPC.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“NPC.cpp”)
+  
+D:\programming\Assignment\Gameobject.h(20,32): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“NPC.cpp”)
+  
+D:\programming\Assignment\NPC.h(27,30): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“NPC.cpp”)
+  
+D:\programming\Assignment\NPC.cpp(55,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\programming\Assignment\NPC.cpp(56,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\programming\Assignment\NPC.cpp(82,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Player.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“Player.cpp”)
+  
+D:\programming\Assignment\Gameobject.h(20,32): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Player.cpp”)
+  
+D:\programming\Assignment\Player.cpp(63,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Projectiles.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“Projectiles.cpp”)
+  
+D:\programming\Assignment\Projectiles.cpp(46,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\programming\Assignment\Projectiles.cpp(47,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\programming\Assignment\Projectiles.cpp(63,67): warning C4018: “<”: 有符号/无符号不匹配
+D:\programming\Assignment\Projectiles.cpp(64,67): warning C4018: “<”: 有符号/无符号不匹配
+  Projsmanager.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“Projsmanager.cpp”)
+  
+  Tilesset.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“Tilesset.cpp”)
+  
+D:\programming\Assignment\Tilesset.cpp(31,12): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(1252)中表示出来
+  World.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“World.cpp”)
+  
+  main.cpp
+D:\programming\Assignment\Constvalues.h(18,32): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\programming\Assignment\Gameobject.h(20,32): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\programming\Assignment\NPC.h(27,30): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  正在生成代码...
+D:\programming\Assignment\NPC.cpp(39): warning C4715: “NPC::operator=”: 不是所有的控件路径都返回值
+  Assignment.vcxproj -> D:\programming\Assignment\x64\Debug\Assignment.exe
